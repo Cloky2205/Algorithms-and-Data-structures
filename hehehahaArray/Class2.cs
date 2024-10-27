@@ -25,8 +25,8 @@ public class HehehahaArrayClient
         {
             Console.WriteLine("Не удалось найти значение. " + searchValue);
         }
-        Console.WriteLine("Минимальное значение. " + array.findmin());
-        Console.WriteLine("Максимальное значение. " + array.findmax());
+        Console.WriteLine("Минимальное значение: " + array.findmin());
+        Console.WriteLine("Максимальное значение: " + array.findmax());
         Console.ReadLine();
     }
 

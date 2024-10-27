@@ -6,8 +6,6 @@ public class HehehahaArray : HehehahaArrayInterface
 {
     private long[] array;
     private int nElems;
-    private long minElem ;
-    private long maxElem ;    
     public HehehahaArray(int size)
     {
 
@@ -40,7 +38,7 @@ public class HehehahaArray : HehehahaArrayInterface
     }
     public long findmin()
     {
-        minElem = array[0];
+        long minElem = array[0];
         for (int i = 0; i < this.nElems; i++)
         {
             if (array[i] < minElem) { minElem = array[i]; }
@@ -49,7 +47,7 @@ public class HehehahaArray : HehehahaArrayInterface
     }
     public long findmax()
     {
-        maxElem = array[0];
+        long maxElem = array[0];
         for (int i = 0; i < this.nElems; i++)
         {
             if (array[i] > maxElem) { maxElem = array[i]; }
