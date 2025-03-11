@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LR_1
 {
-    public interface HehehahaArrayInterface
+    public interface ClassArrayInterface
     {
         bool find(long searchValue);
         bool sortShella();
