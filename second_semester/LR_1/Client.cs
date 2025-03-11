@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace LR_1
 {
-    public class HehehahaArrayClient
+    public class ClassArrayClient
     {
         public static void Main(String[] args)
         {
             Random random = new Random();
             int size = 1000000;
-            HehehahaArrayInterface array = new HehehahaArray(size);
+           ClassArrayInterface array = new Class_Array(size);
 
             for (int i = 0; i < size; i++)
             {
                 array.insert(random.NextInt64(1000000));
             }
-            array.sortKnutha();
-            array.sortShella(); 
+            array.sortShella();
+            array.sortKnutha(); 
             //array.display();
 
            
