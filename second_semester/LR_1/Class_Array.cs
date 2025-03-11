@@ -7,24 +7,24 @@ using System.Threading.Tasks;
 
 namespace LR_1
 {
-    public class HehehahaArray : HehehahaArrayInterface
+    public class Class_Array :ClassArrayInterface
     {
         private long[] array;
         private int nElems;
         public bool isSorted = false;
-        public HehehahaArray(int size)
+        public Class_Array(int size)
         {
 
             this.array = new long[size];
             this.nElems = 0;
         }
-        public HehehahaArray()
+        public Class_Array()
         {
 
             this.array = new long[0];
             this.nElems = 0;
         }
-        public HehehahaArray(long[] elems)
+        public Class_Array(long[] elems)
         {
             this.array = elems;
             this.nElems = elems.Length;
