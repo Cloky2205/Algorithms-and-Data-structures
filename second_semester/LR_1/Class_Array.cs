@@ -30,7 +30,7 @@ namespace LR_1
             this.nElems = elems.Length;
         }
 
-        public bool sortShella()
+        public bool sortKnutha()
         {
             isSorted = true;
             int inner, outer;
@@ -64,7 +64,7 @@ namespace LR_1
             Console.WriteLine(sw.Elapsed.ToString());
             return isSorted;
         }
-        public bool sortKnutha()
+        public bool sortShella()
         {
             isSorted = true;
             int inner, outer;
