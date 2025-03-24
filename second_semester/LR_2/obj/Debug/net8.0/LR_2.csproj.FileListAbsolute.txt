@@ -1,0 +1,14 @@
+C:\Users\ХЗ\Desktop\second_semester\LR_1\bin\Debug\net8.0\LR_2.exe
+C:\Users\ХЗ\Desktop\second_semester\LR_1\bin\Debug\net8.0\LR_2.deps.json
+C:\Users\ХЗ\Desktop\second_semester\LR_1\bin\Debug\net8.0\LR_2.runtimeconfig.json
+C:\Users\ХЗ\Desktop\second_semester\LR_1\bin\Debug\net8.0\LR_2.dll
+C:\Users\ХЗ\Desktop\second_semester\LR_1\bin\Debug\net8.0\LR_2.pdb
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\LR_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\LR_2.AssemblyInfoInputs.cache
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\LR_2.AssemblyInfo.cs
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\LR_2.csproj.CoreCompileInputs.cache
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\LR_2.dll
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\refint\LR_2.dll
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\LR_2.pdb
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\LR_2.genruntimeconfig.cache
+C:\Users\ХЗ\Desktop\second_semester\LR_1\obj\Debug\net8.0\ref\LR_2.dll
