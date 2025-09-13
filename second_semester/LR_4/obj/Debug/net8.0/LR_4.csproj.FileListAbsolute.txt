@@ -1,0 +1,14 @@
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\LR_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\LR_4.AssemblyInfoInputs.cache
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\LR_4.AssemblyInfo.cs
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\LR_4.csproj.CoreCompileInputs.cache
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\bin\Debug\net8.0\LR_4.exe
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\bin\Debug\net8.0\LR_4.deps.json
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\bin\Debug\net8.0\LR_4.runtimeconfig.json
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\bin\Debug\net8.0\LR_4.dll
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\bin\Debug\net8.0\LR_4.pdb
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\LR_4.dll
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\refint\LR_4.dll
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\LR_4.pdb
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\LR_4.genruntimeconfig.cache
+C:\Users\ХЗ\Desktop\second_semester\LR_3\LR_3\obj\Debug\net8.0\ref\LR_4.dll
